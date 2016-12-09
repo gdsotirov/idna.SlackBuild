@@ -1,0 +1,13 @@
+idna: IDNA (Internationalized Domain Names in Applications library)
+idna:
+idna: A library to support the Internationalised Domain Names in Applications
+idna: (IDNA) protocol as specified in RFC 5891. This version of the protocol
+idna: is often referred to as "IDNA2008".
+idna: This library also provides support for Unicode Technical Standard 46,
+idna: Unicode IDNA Compatibility Processing.
+idna: The library is also intended to act as a suitable replacement for the
+idna: "encodings.idna" module that comes with the Python standard library,
+idna: but idna: currently only supports the older, deprecated IDNA
+idna: specification (RFC 3490).
+idna:
+idna: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
