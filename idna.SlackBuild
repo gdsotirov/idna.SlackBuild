@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: idna.SlackBuild,v 1.5 2017/03/08 21:02:17 gsotirov Exp $
+# $Id: idna.SlackBuild,v 1.6 2017/08/13 08:03:37 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=idna
-VERSION=2.5
+VERSION=2.6
 ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
